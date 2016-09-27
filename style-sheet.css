@@ -1,0 +1,33 @@
+html{
+     font-family:sans-serif;
+     background-color:yellow;
+}
+img{
+    display:block;
+    width:50%;
+    border-radius:10px;
+    margin:auto;
+}
+
+body{
+     width:600px;
+     margin:10px auto;
+     padding:10px 20px 10px 20px;
+     border:5px solid red;
+     background-color:blue;
+}
+
+h1{
+   font-size:60px;
+   text-align:center;
+   color:green;
+}
+
+p{
+  font-size:20px;
+  color:orange;
+  line-height:2;
+}
+li{
+   color:red;
+}
