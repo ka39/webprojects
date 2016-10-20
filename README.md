@@ -1,3 +1,3 @@
 # webprojects
-collection of JS programs
-i am ka39.this is my first file.
+
+This is my(ka39) first web site file.
